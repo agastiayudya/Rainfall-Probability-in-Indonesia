@@ -1,1 +1,1 @@
-# Peluang_Kejadian_Curah_Hujan_Indonesia
+# Peluang Kejadian Curah Hujan Indonesia menggunakan Distribusi Gamma
