@@ -14,7 +14,9 @@ Criteria for rainfall intensity used in Indonesia:
 2. Understanding the rainfall patterns in various regions of Indonesia
 
 ### Dataset Link
-https://drive.google.com/file/d/17f3A3qWLaQTCpnjbDUGwy5zx5VgpQHKV/view?usp=sharing
+TRMM Satellite Data: https://drive.google.com/file/d/17f3A3qWLaQTCpnjbDUGwy5zx5VgpQHKV/view?usp=sharing
+Spatial Resolution: 0.24° x 0.24°
+Temporal Resolution: Daily (1998-2015)
 
 ### Flowchart
   ![prob](https://github.com/agastiayudya/Rainfall-Probability-in-Indonesia/assets/96803882/e4818b0e-14dc-4c4a-9251-b57db01e8e8c)
