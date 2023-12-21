@@ -4,10 +4,10 @@ Indonesia, an archipelagic nation located in Southeast Asia, is characterized by
 The rainfall values in Indonesia typically follow a gamma distribution pattern. Therefore, in this project, the parameter search is conducted to find its probability using parameters from the gamma distribution fitted to climatological data of rainfall in a specific month.
 
 Criteria for rainfall intensity used in Indonesia:
-1.) 0.5 – 20 mm/day: Light rain
-2.) 20 – 50 mm/day: Moderate rain
-3.) 50 – 100 mm/day: Heavy rain
-4.) 100 – 150 mm/day: Very heavy rain
+1. 0.5 – 20 mm/day: Light rain
+2. 20 – 50 mm/day: Moderate rain
+3. 50 – 100 mm/day: Heavy rain
+4. 100 – 150 mm/day: Very heavy rain
 
 ### Objectives
 1. Understanding the characteristics of rainfall in each month in Indonesia
